@@ -1,0 +1,24 @@
+-profile:
+      -patient’s profile
+      -doctors profile
+-pulse rate detection:
+-blood pressure checking
+-calories burn calculation
+-Reminder
+-Communication with doc
+- guideline
+-Database
+           -doc info
+           -patients info
+           - patients history
+           
+-Emergecies:
+        -messaging option
+        -calling option
+        -name of the near by hospital
+-Payment
+
+-ambulance service
+            -communication
+            -contact number
+-medicine delivary syste
